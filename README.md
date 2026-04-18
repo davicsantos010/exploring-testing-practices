@@ -37,6 +37,6 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 
 ## Respostas
 
-**1. Repositório selecionado:** `<URL_DO_REPOSITÓRIO_AQUI>`
+**1. Repositório selecionado:** https://github.com/psf/requests
 
-**2. Explicação:** `<SUA_EXPLICAÇÃO_AQUI>`
+**2. Explicação:** No repositório `psf/requests`, uma prática de teste relevante é o uso de `pytest` com fixtures e parametrização. As fixtures permitem reutilizar configurações comuns entre vários testes, evitando repetição de código. Já a parametrização permite executar o mesmo teste com diferentes entradas, aumentando a cobertura de cenários de forma mais organizada. Essa prática melhora a manutenção da suíte de testes, facilita a inclusão de novos casos e torna os testes mais claros e reutilizáveis.
